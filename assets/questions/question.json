@@ -1,0 +1,22 @@
+[
+    {
+        "q" : "Which month comes right before june ?",
+        "options":["may","Aug","june","sunday"],
+        "answer":0
+    },
+    {
+        "q" : "What color is a banana?",
+        "options" : ["red","yellow","white","blue"],
+        "answer" : 1
+    },
+    {
+        "q": "Title of which hemingway's novel is taken form John Donne's meditation 17?",
+        "options": ["arms and men", "for whom the bell tolls", "the sun also rises"],
+        "answer":1
+    },
+    {
+        "q":"which of the two following poets wrote two anniversary poems",
+        "options":["thomas carew","john donne","richard lovelace"],
+        "answer":1
+    }   
+]
